@@ -53,7 +53,7 @@ export type Turbin3Prereq = Idl & {
 export const IDL: Turbin3Prereq = {
   "address": "TRBZyQHB3m68FGeVsqTK39Wm4xejadjVhP5MAZaKWDM",
   "metadata": {
-    "name": "q3_pre_reqs_rs",
+    "name": "Turbin3_prereq",
     "version": "0.1.0",
     "spec": "0.1.0",
     "description": "Created with Anchor"
